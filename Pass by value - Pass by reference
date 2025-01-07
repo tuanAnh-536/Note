@@ -1,0 +1,2 @@
+Pass by Value: "Sao chép một hộp mới, hộp cũ không thay đổi."
+Pass by Reference: "Lấy chìa khóa mở hộp gốc và thay đổi giá trị trong đó.
